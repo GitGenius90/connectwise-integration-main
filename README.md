@@ -1,1 +1,2 @@
-# connectwise-integration-main
+# connectwise-integration
+ConnectWise Integration Example
